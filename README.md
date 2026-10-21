@@ -613,7 +613,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ThunderPhone](https://thunderphone.com) `https://api.thunderphone.com/v1/mcp`
   [![ThunderPhone MCP connector](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thunderphone/thunderphone)
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, campaigns and transcripts.
-  - [Verified.net](https://verified.net/docs#mcp) `https://api.verified.net/mcp`
+- [Verified.net](https://verified.net/docs#mcp) `https://api.verified.net/mcp`
   [![Verified.net MCP connector](https://glama.ai/mcp/connectors/net.verified/verified/badges/score.svg)](https://glama.ai/mcp/connectors/net.verified/verified)
   🔑 - Verify emails and phone numbers, live carrier and porting, IP risk scoring, reverse lookups and bulk jobs.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
